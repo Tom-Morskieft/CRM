@@ -1,0 +1,18 @@
+### Commercial License Agreement
+
+1.	Ownership
+	The software is the exclusive property of Tom Morskieft and is protected by international copyright laws.
+2.	Usage Rights
+	You are granted a non-exclusive, non-transferable license to use the software on a subscription basis. The software may not be modified, distributed, sold, or resold.
+3.	Subscription Terms
+	Use of the software is subject to a monthly/annual subscription fee of [Amount]. Payments are due on the first day of each month/year.
+4.	Restrictions
+	You may not modify, decompile, reverse-engineer, or otherwise attempt to obtain the source code of the software. Unauthorized use automatically terminates your license without refund.
+5.	Termination
+	Tom Morskieft reserves the right to terminate this license agreement if you violate the terms. Upon termination, you must destroy all copies of the software.
+6.	Attribution
+	You must clearly attribute Tom Morskieft as the owner of the software.
+7.	NonCommercial
+	You may not use the software for commercial purposes without prior written consent from Tom Morskieft.
+8.	NoDerivatives
+	You may not create derivative works based on this software.
